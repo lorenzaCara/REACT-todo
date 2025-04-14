@@ -1,0 +1,60 @@
+{
+  "lists": [
+    {
+      "id": "2f94",
+      "title": "Pantaloni",
+      "description": "Belli",
+      "favorite": true
+    },
+    {
+      "id": "db4c",
+      "title": "CIAO",
+      "description": "ciao\n",
+      "favorite": true
+    },
+    {
+      "id": "833e",
+      "title": "lista",
+      "description": "",
+      "favorite": true
+    }
+  ],
+  "items": [
+    {
+      "id": "8021",
+      "label": "boh",
+      "list_id": "2f94",
+      "checked": false
+    },
+    {
+      "id": "a06d",
+      "label": "ngh",
+      "list_id": "2f94",
+      "checked": false
+    },
+    {
+      "id": "946b",
+      "label": "kj",
+      "list_id": "2f94",
+      "checked": true
+    },
+    {
+      "id": "c831",
+      "label": "jh",
+      "checked": false,
+      "list_id": "db4c"
+    },
+    {
+      "id": "e2dd",
+      "label": "dl",
+      "checked": false,
+      "list_id": "db4c"
+    },
+    {
+      "id": "d151",
+      "label": "sd",
+      "checked": false,
+      "list_id": "db4c"
+    }
+  ]
+}
